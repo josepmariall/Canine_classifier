@@ -4,7 +4,7 @@ dogg breed that most ressembles the human in the picture. If a dog is detected, 
 This project is done from a Udacity project. 
 
 ## Install
-I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/master/cnn_environment.yml) used to run this code.
 
 ## Acknowledgments
 This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
