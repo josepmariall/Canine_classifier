@@ -20,4 +20,4 @@ models are used (transfer learning) to obtain better results. Initially, the fir
 Finally, using VGG16 and a human detector, an algorithm is created to detect humans and dogs.
 
 ## License
-This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/License.txt) file
+This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/Canine_classifier/blob/master/License.txt) file
