@@ -9,7 +9,7 @@ I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/
 ## Acknowledgments
 This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
 
-##About this project 
+## About this project 
 The goal of this project is to create an algoirthm that recognizes humans and dogs. If a man is detected, it will predict the 
 dogg breed that most ressembles the human in the picture. If a dog is detected, it will predict its most likely dog breed. 
 
