@@ -19,7 +19,7 @@ Finally, using VGG16 and a human detector, an algorithm is created to detect hum
 
 ### Code of ethics
 
-This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/x_biamow/blob/master/Code%20of%20ethics.txt) 
+This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/Canine_classifier/blob/master/Code%20of%20ethics.txt) 
 
 ### Acknowledgments
 This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
