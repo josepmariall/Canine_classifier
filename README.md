@@ -3,9 +3,6 @@ The goal of this project is to create an algoirthm that recognizes humans and do
 dogg breed that most ressembles the human in the picture. If a dog is detected, it will predict its most likely dog breed. 
 This project is done from a Udacity project. 
 
-## Install
-I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/master/cnn_environment.yml) used to run this code.
-
 ## About this project 
 The goal of this project is to create an algoirthm that recognizes humans and dogs. If a man is detected, it will predict the 
 dogg breed that most ressembles the human in the picture. If a dog is detected, it will predict its most likely dog breed. 
@@ -16,6 +13,8 @@ models are used (transfer learning) to obtain better results. Initially, the fir
 
 Finally, using VGG16 and a human detector, an algorithm is created to detect humans and dogs.
 
+## Install
+I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/master/cnn_environment.yml) used to run this code.
 
 ### Code of ethics
 
