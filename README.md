@@ -14,7 +14,7 @@ models are used (transfer learning) to obtain better results. Initially, the fir
 Finally, using VGG16 and a human detector, an algorithm is created to detect humans and dogs.
 
 ## Install
-I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/master/cnn_environment.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/master/deeplearning.yml) used to run this code.
 
 ### Code of ethics
 
